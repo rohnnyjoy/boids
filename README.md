@@ -16,4 +16,4 @@ A Vanilla JS implementation of Craig Reynolds's "Boids" flocking algorithm
 
 `MATCHING_FACTOR` : the factor of alignment
 
-[Boids information](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html)
+More information about parameters at https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
