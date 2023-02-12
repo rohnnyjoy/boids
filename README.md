@@ -1,5 +1,6 @@
 # boids
 A Vanilla JS implementation of Craig Reynolds's "Boids" flocking algorithm
+![boids](https://user-images.githubusercontent.com/124934049/218286526-79b405f0-b447-4a1b-b5bf-31b7b33a2ef7.gif)
 
 ## Parameters
 `TURN_FACTOR` : the factor at which a boid will turn to avoid a screen boundary
